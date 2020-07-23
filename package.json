@@ -104,7 +104,7 @@
     "js-cookie": "2.1.4",
     "json-loader": "0.5.7",
     "json3": "3.3.2",
-    "knockout": "3.4.2",
+    "knockout": "3.5.0",
     "knockout-projections": "github:stevesanderson/knockout-projections#v1.1.0",
     "knockout-sortable": "0.14.1",
     "lightgallery": "1.2.21",
